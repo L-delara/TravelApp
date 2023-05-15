@@ -116,7 +116,7 @@ section.secondary {
   height: 100%;
   aspect-ratio: 1 /1;
 }
-.morocco-wiki {
+#morocco-wiki {
   font-size: small;
   opacity: 0.55;
 }
@@ -215,5 +215,8 @@ footer a:hover {
 
   .embeded {
     aspect-ratio: 16 / 9;
+  }
+  .insta-gallery {
+    grid-template-columns: 1fr;
   }
 }
